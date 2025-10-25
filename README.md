@@ -1,4 +1,4 @@
-# Terraform AWS API Gateway with API Key Authentication
+# API Gateway
 
 * Create, maintain, and secure AWS API Gateway endpoints with API key authentication
 * Manage API usage with configurable throttling, quotas, and usage plans
