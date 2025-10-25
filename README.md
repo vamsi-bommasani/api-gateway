@@ -1,6 +1,8 @@
-# Terraform AWS RHD API Keys
+# Terraform AWS API Gateway with API Key Authentication
 
-* Create, maintain, and secure APIs at any scale
+* Create, maintain, and secure AWS API Gateway endpoints with API key authentication
+* Manage API usage with configurable throttling, quotas, and usage plans
+* Supports both GET and POST methods with IAM authorization
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
